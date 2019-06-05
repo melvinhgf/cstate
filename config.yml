@@ -144,7 +144,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: /logo.png
+  logo: https://res.cloudinary.com/melvinhgf-net-solutions/image/upload/co_rgb:000000,e_make_transparent:10/v1474616440/brand-logo-hori.jpg
 
   # This is the description that is shown
   # on the footer and meta tags.
@@ -188,8 +188,8 @@ params:
   # disrupted: "cc4400"
   # down: "e60000"
   # notice: "24478f"
-  brand: "0a0c0f"
-  ok: "008000"
+  brand: "3c7190"
+  ok: "3c7190"
   disrupted: "cc4400"
   down: "e60000"
   notice: "24478f"
@@ -203,7 +203,7 @@ params:
   #
   # Default: true
   # BOOLEAN; `true`, `false`
-  alwaysKeepBrandColor: true
+  alwaysKeepBrandColor: false
 
   # Google Analytics tracking code
   #
