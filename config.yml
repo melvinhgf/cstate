@@ -127,7 +127,7 @@ params:
   #
   # Default: true
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
 
   # Should we show the logo or the title
   # of the status page?
@@ -192,7 +192,7 @@ params:
   ok: "3c7190"
   disrupted: "cc4400"
   down: "e60000"
-  notice: "24478f"
+  notice: "ffffff"
 
   # If the status page shows that
   # there are disruptions or outages
